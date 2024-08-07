@@ -11,3 +11,5 @@ Kubernetes setup: https://www.docker.com/blog/how-kubernetes-works-under-the-hoo
 Coding:
 
 Java Kubernetes: https://github.com/kubernetes-client/java/wiki/3.-Code-Examples
+
+CICD Jenkins + GITLAB: https://docs.gitlab.com/ee/ci/examples/
